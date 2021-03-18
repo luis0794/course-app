@@ -1,0 +1,28 @@
+.normal-input-width {
+    width: 100%;
+}
+
+.opt {
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.editOpt {
+    color: darkgreen;
+}
+
+.deleteOpt {
+    color: darkred;
+}
+
+.span-error {
+    color: darkred;
+}
+
+.table-courses tr > th:nth-child(3),
+.table-courses tr > td:nth-child(3) {
+    padding: 0 !important;
+    min-width: 35px;
+}
+
+
